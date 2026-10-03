@@ -5,8 +5,6 @@ classes, pay (mock, synchronous), and staff view a confirmed roster. The core
 focus is **correctness under concurrency** — proving that the last seat is never
 double-booked and a class is never overbooked.
 
-> **Video walkthrough:** [<VIDEO_LINK_HERE>](https://drive.google.com/file/d/1bx4hNGbd-25XwJv5edaCqusHheqp95AR/view?usp=sharing)
-
 ---
 
 ## 1. How to Run
